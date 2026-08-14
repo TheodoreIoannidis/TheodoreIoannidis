@@ -16,5 +16,5 @@ My MEng thesis 'Small Intestine Anomaly Detection using Self-Supervised Learning
 My MSc thesis 'Hierarchical Multi-Stream Video-Based Sleep State Classification for Preterm Infants in the NICU': 
 - soon
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheodoreIoannidis&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-stats-extended) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheodoreIoannidis&layout=compact)](https://github.com/anuraghazra/github-stats-extended)
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=TheodoreIoannidis&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-stats-extended) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TheodoreIoannidis&layout=compact)](https://github.com/anuraghazra/github-stats-extended)
 
